@@ -1,12 +1,12 @@
-import webpy.web
+import web
 urls=(
-    "/test",'test'
+    '/','test'
 )
 class test:
     def GET(self):
-        inp = webpy.web.input().json()
-        return inp
+        return "efgdsaf"
 
-if __name__ == "__main":
-    app=webpy.web.application(urls,globals())
+if __name__ == "__main__":
+    print(1)
+    app=web.application(urls,globals())
     app.run()

@@ -33,12 +33,4 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.5.1 (C:\Users\China\AppData\Local\Programs\Python\Python35\python.exe)" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true" working-directory="$USER_HOME$/AppData/Local/Programs/Python/Python35">
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myWorkingDirectory" value="$USER_HOME$/AppData/Local/Programs/Python/Python35" />
-      </console-settings>
-    </option>
-  </component>
 </project>
