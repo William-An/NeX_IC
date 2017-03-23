@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+    <id></id>
+    <yaw></yaw>
+    <pitch></pitch>
+    <roll></roll>
+    <ax></ax>
+    <ay></ay>
+    <az></az>
+    <date></date>
+    <time></time>
+</xml>
